@@ -8,7 +8,8 @@ A simple web-based calculator for adding two numbers.
 - Simple UI with responsive design
 
 ## Live Demo
-[Click here to view](your-deployment-url)
+[Click here to view](https://your-username.github.io/basic-calculator/)
+
 
 ## Technologies Used
 - HTML
